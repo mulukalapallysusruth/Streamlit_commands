@@ -1,0 +1,14 @@
+# creating virtual environment
+ 1. first create folder in vs code or any text editor. after creating open new terminal 
+2.  code : python -m venv envirname 
+3. activate:  venv\Scripts\activate 
+4.pip install django , python   or conda install python
+5.django-admin startproject projectname
+6.python manage.py runserver
+7.app creating: python manage.py startapp appname
+
+
+
+# To remove venv
+code: rmdir /s /q venv
+
